@@ -1,0 +1,45 @@
+
+{
+    "Branchen": {
+	"Wellness": ["Friseur", "Maniküre", "Massage", "Makeup", "Kosmetiker"],
+	"Fitness": ["Training", "Ernährung", "Abnehmen", "Muskelaufbau", "Crossfit", "trainieren"],
+	"Asiatisch": ["Sushi", "Sashimi", "Asiatischesessen", "asiatischeküche"],
+	"Italienisch": ["italienischesessen", "italienischesrestaurant"],
+	"Pizzeria": ["donner", "Pizza", "Kebab"],
+	"DeutschesEssen": ["essen", "essenmachtglücklich", "Eisbein", "wurst", "würst", "wurstel", "wurstsalat", "bratwurst", "wurstküche", "wurstplatte", "würstchen", "wurstkuche", "schnitzel", "schnitzelkönig", "schnitzellove", "schnitzeltag", "schnitzelburger", "schnitzelliebe", "jägerschnitzel", "chickenschnitzel", "donnerkebab", "kebab"],
+	"Mode": ["kleidung", "kleidungnähen", "sportkleidung", "nachhaltigekleidung", "secondhandkleidung"],
+	"ModeFrauen": ["Frauenmode", "frauenkleidung", "ichnähemeinekleidungselbst", "Damenkleidung", "markenkleidung", "großhandelkleidung"],
+	"ModeMänner": ["Männermode", "männerkleidung"],
+	"ModeKinder": ["Kindermode", "Kinderkleidung", "kinderkleidungnähen"],
+	"ModeBabyes": ["Babymode", "babykleidung", "babykleidungnähen", "mädchenkleidung", "handmadekleidung"],
+	"Coaching": ["coaching", "coachinglife", "coachingpsychology", "karrierecoach", "karrierecoaching", "Schlafcoaching"],
+	"Handwerk": ["konstruktion" ,"konstruktionsmechaniker"],
+	"Gesundheit": ["gesundheitsberatung", "gesundheitsprävention", "rückengesundheit", "pferdegesundheit", "gesundheitscoaching", "gesundheitistdaswichtigste"],
+	"Immobilien": ["immobilienmakler", "immobilienverkauf", "immobilieninvestment" ,"immobilienmarketing", "immobilieninvestor", "immobilienvermarktung", "immobilienkauf", "immobilienmaklerin", "immobilienfotografie", "immobilienvermittlung", "immobilienbewertung"],
+	"Unternehmensberatung": ["unternehmensberatung", "studentischeunternehmensberatung"],
+	"Tourismus": ["tourismus", "schweiztourismus", "graubündentourismus", "germanytourismus"]
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
