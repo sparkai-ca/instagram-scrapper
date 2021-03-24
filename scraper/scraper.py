@@ -33,7 +33,7 @@ options.add_argument("--disable-notifications")
 options.add_argument("--disable-infobars")
 options.add_argument("--mute-audio")
 options.add_argument("--no-sandbox")
-#options.add_argument("--headless")
+options.add_argument("--headless")
 
 
 total_scrolls = 3
